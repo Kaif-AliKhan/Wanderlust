@@ -32,6 +32,7 @@ const listingSchema=new Schema({
           required: true,
         },
       },
+    contact:Number,
 });
 
 listingSchema.post("findOneAndDelete",async(listing)=>{
