@@ -13,8 +13,10 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-118.8062, 34.0259] // Example coordinates for Malibu
-    }
+    },
+      contact:7856435672,
   },
+
   {
     title: "Modern Loft in Downtown",
     description:
@@ -29,8 +31,10 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-74.006, 40.7128] // Example coordinates for New York City
-    }
+    },
+      contact:7856435672,
   },
+  
   
   {
     title: "Mountain Retreat",
@@ -46,7 +50,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-106.8371, 39.1911] // Coordinates for Aspen, United States
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Historic Villa in Tuscany",
@@ -62,7 +67,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [11.2558, 43.7696] // Coordinates for Florence, Italy
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Secluded Treehouse Getaway",
@@ -78,7 +84,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-122.6765, 45.5231] // Coordinates for Portland, United States
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Beachfront Paradise",
@@ -94,7 +101,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-86.8475, 21.1619] // Coordinates for Cancun, Mexico
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Rustic Cabin by the Lake",
@@ -110,7 +118,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-120.0324, 39.0968] // Coordinates for Lake Tahoe, United States
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Luxury Penthouse with City Views",
@@ -126,7 +135,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-118.2437, 34.0522] // Coordinates for Los Angeles, United States
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Ski-In/Ski-Out Chalet",
@@ -142,7 +152,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [7.2281, 46.0963] // Coordinates for Verbier, Switzerland
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Safari Lodge in the Serengeti",
@@ -158,7 +169,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [34.8260, -2.1540] // Coordinates for Serengeti National Park, Tanzania
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Historic Canal House",
@@ -174,7 +186,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [4.8952, 52.3702] // Coordinates for Amsterdam, Netherlands
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Private Island Retreat",
@@ -190,7 +203,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [178.0650, -17.7134] // Coordinates for Fiji
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Charming Cottage in the Cotswolds",
@@ -206,7 +220,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-1.7225, 51.9294] // Coordinates for Cotswolds, United Kingdom
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Historic Brownstone in Boston",
@@ -222,7 +237,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-71.0589, 42.3601] // Coordinates for Cotswolds, United Kingdom
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Beachfront Bungalow in Bali",
@@ -238,7 +254,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [115.1889, -8.4095] // Coordinates for Cotswolds, United Kingdom
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Mountain View Cabin in Banff",
@@ -254,7 +271,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [115.5708,  51.1784] // Coordinates for Amsterdam, Netherlands
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Art Deco Apartment in Miami",
@@ -270,7 +288,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [ -80.1918,  25.7617] // Coordinates for Cotswolds, United Kingdom
-    }
+    },  
+    contact:7856435672,
   },
   {
     title: "Tropical Villa in Phuket",
@@ -286,7 +305,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [ 98.3923, 7.8804] // Coordinates for Cotswolds, United Kingdom
-    }
+    },  
+    contact:7856435672,
   },
   {
     title: "Historic Castle in Scotland",
@@ -302,7 +322,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-4.2520, 56.4907] // Coordinates for Scottish Highlands, United Kingdom
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Desert Oasis in Dubai",
@@ -318,7 +339,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [55.2708, 25.2048] // Coordinates for Dubai, United Arab Emirates
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Rustic Log Cabin in Montana",
@@ -334,7 +356,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [55.2708, 25.2048] // Coordinates for Dubai, United Arab Emirates
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Beachfront Villa in Greece",
@@ -350,7 +373,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [25.3276, 37.4467] // Coordinates for Mykonos, Greece
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Eco-Friendly Treehouse Retreat",
@@ -366,7 +390,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-84.0916, 9.7489] // Coordinates for Costa Rica
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Historic Cottage in Charleston",
@@ -382,7 +407,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-79.9311, 32.7765] // Coordinates for Charleston, United States
-    }
+    },
+      contact:7856435672,
 
   },
   {
@@ -399,7 +425,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [139.6917, 35.6895] // Coordinates for Tokyo, Japan
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Lakefront Cabin in New Hampshire",
@@ -415,7 +442,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-71.5724, 43.1939] // Coordinates for New Hampshire, United States
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Luxury Villa in the Maldives",
@@ -431,7 +459,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [73.2207, 3.2028] // Coordinates for Maldives
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Ski Chalet in Aspen",
@@ -447,7 +476,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-106.8224, 39.1911] // Coordinates for Aspen, United States
-    }
+    },
+      contact:7856435672,
   },
   {
     title: "Secluded Beach House in Costa Rica",
@@ -463,7 +493,8 @@ const sampleListings = [
     geometry: {
       type: "Point",
       coordinates: [-84.0916, 9.9281] // Coordinates for Costa Rica
-    }
+    },
+      contact:7856435672,
   },
 ];
 
